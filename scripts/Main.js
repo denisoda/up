@@ -7,6 +7,16 @@ var Google_Api_Key = 'AIzaSyDClvZpnI5xyB118el7chbFSHHlppmdg6E'
 
 
 
+function loader(bool) {
+
+    var loader = document.getElementById("loader");
+
+    if(bool){
+        loader.style.display = "block";
+    }
+    else loader.style.display = "none";
+}
+
 
 function PageSpeed_Insights () {
 
@@ -25,27 +35,27 @@ function PageSpeed_Insights () {
     }, function(error) {
         console.log(error.message);
     });
-
-    var data = JSON.parse(httpGet(inp_url.value));
     var result = document.getElementById("Result");
     if (inp_url.value.length == 0 || !ValidURL(inp_url.value))  {
         document.getElementById("Result").innerHTML = "Input correct URL!";
     }
 
-
-
     else {
-        try {
 
+        try {
+            loader(true);
+
+            var data = JSON.parse(httpGet(inp_url.value));
             result.innerHTML = 'Information about "' + data.title + '" page';
             result.innerHTML += "<br> You're site speed is " + data.ruleGroups.SPEED.score + ' from 100';
             result.innerHTML += ("<br>" + "You're site is mobile friendly");
 
-
+            loader(false);
         } catch (err) {
             document.getElementById("Result").innerHTML = err.message;
         }
     }
+
 }
 
 function ValidURL(str) {
