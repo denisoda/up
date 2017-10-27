@@ -13,7 +13,7 @@ function PageSpeed_Insights () {
     var inp_url = document.getElementById("URL_speed");
 
     var url = 'http://webbuilder.design/urls?=' + inp_url;
-
+    // (SAVE URL) sending URL to the server
     fetch(url, {
         method: 'GET',
         headers: {
@@ -28,9 +28,12 @@ function PageSpeed_Insights () {
 
     var data = JSON.parse(httpGet(inp_url.value));
     var result = document.getElementById("Result");
-    if (inp_url.value.length == 0) {
-        document.getElementById("Result").innerHTML = "Input the site's URL!";
+    if (inp_url.value.length == 0 || !ValidURL(inp_url.value))  {
+        document.getElementById("Result").innerHTML = "Input correct URL!";
     }
+
+
+
     else {
         try {
 
@@ -45,6 +48,17 @@ function PageSpeed_Insights () {
     }
 }
 
+function ValidURL(str) {
+    var expression = /[-a-zA-Z0-9@:%_\+.~#?&//=]{2,256}\.[a-z]{2,4}\b(\/[-a-zA-Z0-9@:%_\+.~#?&//=]*)?/gi;
+    var regex = new RegExp(expression);
+
+    if (str.match(regex)) {
+        console.log("Url is valid");
+        return true;
+    } else {
+        return false
+    }
+}
 
 //parse of this data https://developers.google.com/apis-explorer/#p/pagespeedonline/v2/pagespeedonline.pagespeedapi.runpagespeed
 
