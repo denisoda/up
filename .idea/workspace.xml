@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a34dcdab-74fc-4055-9a68-c89bcaf83aea" name="Default" comment="" />
+    <list default="true" id="a34dcdab-74fc-4055-9a68-c89bcaf83aea" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/Main.js" afterPath="$PROJECT_DIR$/scripts/Main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder.html" afterPath="$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -20,8 +24,8 @@
       <file leaf-file-name="Main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/Main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+            <state relative-caret-position="377">
+              <caret line="49" column="52" lean-forward="false" selection-start-line="49" selection-start-column="52" selection-end-line="49" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -37,25 +41,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+      <file leaf-file-name="mobilnutzerfreundlich – Webbuilder.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-              <folding />
+            <state relative-caret-position="190">
+              <caret line="162" column="32" lean-forward="true" selection-start-line="162" selection-start-column="32" selection-end-line="162" selection-end-column="32" />
+              <folding>
+                <marker date="1509137077360" expanded="true" signature="8484:8581" ph="/*...*/" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mobilnutzerfreundlich – Webbuilder.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="49" column="55" lean-forward="false" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
-              <folding>
-                <marker date="1509126691764" expanded="true" signature="8077:8174" ph="/*...*/" />
-              </folding>
-            </state>
+      <file leaf-file-name="wp-emoji-release.min.js" pinned="false" current-in-tab="false">
+        <entry file="http://webbuilder.design/wp-includes/js/wp-emoji-release.min.js?ver=4.8.2">
+          <provider selected="true" editor-type-id="httpFileEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -77,6 +78,9 @@
       <find>resul</find>
       <find>oncli</find>
       <find>speed</find>
+      <find>URL</find>
+      <find>loader</find>
+      <find>button</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -91,14 +95,17 @@
         <option value="$PROJECT_DIR$/Page/package.json" />
         <option value="www.google-analytics.com/analytics.js" />
         <option value="chrome-extension://niloccemoadcdkdjlinkgdfekeahmflj/app/scripts/newtab.js" />
-        <option value="extensions::messaging" />
         <option value="chrome-extension://cfhdojbkjhnklbpkdaibdccddilifddb/include.preload.js" />
         <option value="chrome-extension://niloccemoadcdkdjlinkgdfekeahmflj/app/scripts/main.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/scripts/Url_Data/package.json" />
         <option value="$PROJECT_DIR$/scripts/a.js" />
-        <option value="$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder.html" />
         <option value="$PROJECT_DIR$/scripts/URL.js" />
+        <option value="webbuilder.design/wp-includes/js/wp-emoji-release.min.js?ver=4.8.2" />
+        <option value="extensions::messaging" />
+        <option value="chrome-extension://gppongmhjkpfnbhagpmjfkannfbllamg/js/iframe.js" />
+        <option value="$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder.html" />
+        <option value="chrome-extension://kbfnbcaeplbcioakkpcpgfkobkghlhen/src/js/Grammarly.js" />
         <option value="$PROJECT_DIR$/scripts/Main.js" />
       </list>
     </option>
@@ -109,9 +116,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="531" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -130,8 +137,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,7 +165,7 @@
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path" value="I:/NODEJS/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="F:/Apps/Git/git-cmd.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="TEXT&#10;JSON" />
@@ -203,20 +210,21 @@
       </EXTENSION>
     </configuration>
     <configuration name="a.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/scripts/URL.js" working-dir="$PROJECT_DIR$/scripts" />
+    <configuration name="mobilnutzerfreundlich – Webbuilder.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/site_checker/Page/mobilnutzerfreundlich – Webbuilder.html" />
     <configuration name="mobilnutzerfreundlich – Webbuilder.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/site_checker/Page/mobilnutzerfreundlich – Webbuilder.html" />
-    <list size="5">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Node.js.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Index.html" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.Main.js" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.mobilnutzerfreundlich – Webbuilder.html" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.a.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.Main.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.a.js" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Index.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.mobilnutzerfreundlich – Webbuilder.html" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.mobilnutzerfreundlich – Webbuilder.html (1)" />
     </list>
     <recent_temporary>
-      <list size="4">
+      <list size="3">
         <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.mobilnutzerfreundlich – Webbuilder.html" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.Main.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.a.js" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Index.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.mobilnutzerfreundlich – Webbuilder.html (1)" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -237,33 +245,37 @@
       <workItem from="1509035674763" duration="8219000" />
       <workItem from="1509046017248" duration="8043000" />
       <workItem from="1509123892251" duration="1991000" />
-      <workItem from="1509126108546" duration="4720000" />
+      <workItem from="1509126108546" duration="10304000" />
+      <workItem from="1509136748419" duration="962000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38412000" />
+    <option name="totallyTimeSpent" value="44958000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21302083" sideWeight="0.4858657" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43110648" sideWeight="0.4858657" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32979852" sideWeight="0.50416666" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.369379" sideWeight="0.32776618" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32979852" sideWeight="0.49583334" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.49583334" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21302083" sideWeight="0.5141343" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26193002" sideWeight="0.6828125" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.369379" sideWeight="0.6722338" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,12 +292,70 @@
           <line>530</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/scripts/Main.js</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="8" />
+      <option name="time" value="23" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scripts/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2754">
+          <caret line="162" column="0" lean-forward="false" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+          <folding>
+            <marker date="1509137077360" expanded="true" signature="8484:8581" ph="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2754">
+          <caret line="162" column="0" lean-forward="false" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+          <folding>
+            <marker date="1509137077360" expanded="true" signature="8484:8581" ph="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/Main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -310,32 +380,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/Url_Data/url.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/Url_Data/url.json" />
     <entry file="file://$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2516">
           <caret line="148" column="33" lean-forward="true" selection-start-line="148" selection-start-column="33" selection-end-line="148" selection-end-column="33" />
           <folding>
-            <marker date="1509126691764" expanded="true" signature="8077:8174" ph="/*...*/" />
+            <marker date="1509137077360" expanded="true" signature="8484:8581" ph="/*...*/" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/URL.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="21" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/URL.js" />
     <entry file="file://$PROJECT_DIR$/scripts/Main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -344,20 +400,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/Url_Data/url.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/Url_Data/url.json" />
     <entry file="file://$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2431">
           <caret line="143" column="92" lean-forward="false" selection-start-line="143" selection-start-column="92" selection-end-line="143" selection-end-column="92" />
           <folding>
-            <marker date="1509126691764" expanded="true" signature="8077:8174" ph="/*...*/" />
+            <marker date="1509137077360" expanded="true" signature="8484:8581" ph="/*...*/" />
           </folding>
         </state>
       </provider>
@@ -376,7 +425,7 @@
         <state relative-caret-position="2210">
           <caret line="130" column="33" lean-forward="false" selection-start-line="130" selection-start-column="33" selection-end-line="130" selection-end-column="33" />
           <folding>
-            <marker date="1509126691764" expanded="true" signature="8077:8174" ph="/*...*/" />
+            <marker date="1509137077360" expanded="true" signature="8484:8581" ph="/*...*/" />
           </folding>
         </state>
       </provider>
@@ -395,7 +444,7 @@
         <state relative-caret-position="2193">
           <caret line="129" column="8" lean-forward="false" selection-start-line="129" selection-start-column="8" selection-end-line="129" selection-end-column="8" />
           <folding>
-            <marker date="1509126691764" expanded="true" signature="8077:8174" ph="/*...*/" />
+            <marker date="1509137077360" expanded="true" signature="8484:8581" ph="/*...*/" />
           </folding>
         </state>
       </provider>
@@ -413,7 +462,7 @@
         <state relative-caret-position="2193">
           <caret line="129" column="8" lean-forward="false" selection-start-line="129" selection-start-column="8" selection-end-line="129" selection-end-column="8" />
           <folding>
-            <marker date="1509126691764" expanded="true" signature="8077:8174" ph="/*...*/" />
+            <marker date="1509137077360" expanded="true" signature="8484:8581" ph="/*...*/" />
           </folding>
         </state>
       </provider>
@@ -461,15 +510,12 @@
         <state />
       </provider>
     </entry>
-    <entry file="http://webbuilder.design/wp-includes/js/wp-emoji-release.min.js?ver=4.8.2">
-      <provider selected="true" editor-type-id="httpFileEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Index.html" />
+    <entry file="file://$PROJECT_DIR$/scripts/Url_Data/url.json" />
+    <entry file="file://$PROJECT_DIR$/scripts/URL.js" />
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="68">
           <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
           <folding />
         </state>
@@ -483,36 +529,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/Url_Data/url.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/URL.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-          <folding />
-        </state>
+    <entry file="http://webbuilder.design/wp-includes/js/wp-emoji-release.min.js?ver=4.8.2">
+      <provider selected="true" editor-type-id="httpFileEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="49" column="55" lean-forward="false" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
+        <state relative-caret-position="190">
+          <caret line="162" column="32" lean-forward="true" selection-start-line="162" selection-start-column="32" selection-end-line="162" selection-end-column="32" />
           <folding>
-            <marker date="1509126691764" expanded="true" signature="8077:8174" ph="/*...*/" />
+            <marker date="1509137077360" expanded="true" signature="8484:8581" ph="/*...*/" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/Main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        <state relative-caret-position="377">
+          <caret line="49" column="52" lean-forward="false" selection-start-line="49" selection-start-column="52" selection-end-line="49" selection-end-column="52" />
           <folding />
         </state>
       </provider>
