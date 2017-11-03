@@ -1,0 +1,16 @@
+.hs-site-info {
+    display: none;
+}
+div#hs-bottom-footer {
+    display: none;
+}
+
+.hs-progress-bar-sec .hs-progress {
+display: none;
+
+}
+
+#hs-portfolio-section {
+    display: none;
+
+}
