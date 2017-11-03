@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a34dcdab-74fc-4055-9a68-c89bcaf83aea" name="Default" comment="Added Url fixer">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/Cakefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/lib/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/lib/xhr2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/src/000-xml_http_request_event_target.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/src/001-xml_http_request.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/src/errors.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/src/progress_event.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/src/xml_http_request_upload.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/test/fixtures/hello.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/test/fixtures/hello.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/test/fixtures/xhr2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/test/html/browser_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/test/src/event_target_test.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/test/src/events_test.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/test/src/headers_test.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/test/src/helpers/browser_mocha_runner.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/test/src/helpers/browser_mocha_setup.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/test/src/helpers/setup.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/test/src/helpers/xhr_server.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/test/src/nodejs_set_test.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/test/src/redirect_test.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/test/src/response_type_test.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/test/src/responseurl_test.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/test/src/send_test.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/test/src/status_test.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xhr2/test/src/xhr_test.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/d.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder.html" afterPath="$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/Main.js" afterPath="$PROJECT_DIR$/scripts/Main.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="site_checker" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scripts/Main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="36" column="8" lean-forward="true" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+              <folding>
+                <element signature="n#!!block;n#loader#0" expanded="false" />
+                <element signature="n#!!block;n#err_msg#0" expanded="false" />
+                <element signature="n#!!block;n#ValidUrl_Regrex#0" expanded="false" />
+                <element signature="n#!!block;n#JsonParse#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Grammarly.js" pinned="false" current-in-tab="false">
+        <entry file="mock://chrome-extension://kbfnbcaeplbcioakkpcpgfkobkghlhen/src/js/Grammarly.js">
+          <provider selected="true" editor-type-id="vmFileEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Grammarly.js" pinned="false" current-in-tab="false">
+        <entry file="mock://chrome-extension://kbfnbcaeplbcioakkpcpgfkobkghlhen/src/js/Grammarly.js">
+          <provider selected="true" editor-type-id="vmFileEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wp-emoji-release.min.js" pinned="false" current-in-tab="false">
+        <entry file="http://webbuilder.design/wp-includes/js/wp-emoji-release.min.js?ver=4.8.2">
+          <provider selected="true" editor-type-id="httpFileEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Grammarly.js" pinned="false" current-in-tab="false">
+        <entry file="mock://chrome-extension://kbfnbcaeplbcioakkpcpgfkobkghlhen/src/js/Grammarly.js">
+          <provider selected="true" editor-type-id="vmFileEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mobilnutzerfreundlich – Webbuilder.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3119">
+              <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="package_json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dfg</find>
+      <find>inp</find>
+      <find>resul</find>
+      <find>speed</find>
+      <find>URL</find>
+      <find>button</find>
+      <find>url</find>
+      <find>valid</find>
+      <find>oncli</find>
+      <find>req</find>
+      <find>Req</find>
+      <find>on</find>
+      <find>ValidURL</find>
+      <find>loader</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Index.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+        <option value="$PROJECT_DIR$/Page/package.json" />
+        <option value="www.google-analytics.com/analytics.js" />
+        <option value="chrome-extension://cfhdojbkjhnklbpkdaibdccddilifddb/include.preload.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/scripts/Url_Data/package.json" />
+        <option value="$PROJECT_DIR$/scripts/a.js" />
+        <option value="$PROJECT_DIR$/scripts/URL.js" />
+        <option value="chrome-extension://cfhdojbkjhnklbpkdaibdccddilifddb/include.postload.js" />
+        <option value="chrome-extension://bfbameneiokkgbdmiekhjnmfkcnldhhm/content/content.js" />
+        <option value="chrome-extension://niloccemoadcdkdjlinkgdfekeahmflj/app/scripts/main.js" />
+        <option value="chrome-extension://niloccemoadcdkdjlinkgdfekeahmflj/app/scripts/newtab.js" />
+        <option value="extensions::messaging" />
+        <option value="webbuilder.design/wp-includes/js/wp-emoji-release.min.js?ver=4.8.2" />
+        <option value="$PROJECT_DIR$/scripts/d.js" />
+        <option value="chrome-extension://aapbdbdomjkkjkaonfhkkikfgjllcleb/bubble_compiled.js" />
+        <option value="chrome-extension://gppongmhjkpfnbhagpmjfkannfbllamg/js/iframe.js" />
+        <option value="chrome-extension://kbfnbcaeplbcioakkpcpgfkobkghlhen/src/js/Grammarly.js" />
+        <option value="$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder.html" />
+        <option value="$PROJECT_DIR$/scripts/Main.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="site_checker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="site_checker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="site_checker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="site_checker" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="F:/Apps/NodeJS/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/OneDrive/Projects/site_checker" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="TEXT&#10;JSON" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="javascript.nodejs.core.library.configured.version" value="6.11.4" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.mobilnutzerfreundlich – Webbuilder.html">
+    <configuration name="Index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/site_checker/Index.html" />
+    <configuration name="Main.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Main.js" working-dir="$PROJECT_DIR$/scripts" />
+    <configuration name="Unnamed" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="$PROJECT_DIR$">
+      <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
+        <option name="envVars">
+          <list />
+        </option>
+        <option name="extraHosts">
+          <list />
+        </option>
+        <option name="links">
+          <list />
+        </option>
+        <option name="networkDisabled" value="false" />
+        <option name="networkMode" value="bridge" />
+        <option name="portBindings">
+          <list />
+        </option>
+        <option name="publishAllPorts" value="false" />
+        <option name="version" value="1" />
+        <option name="volumeBindings">
+          <list />
+        </option>
+      </EXTENSION>
+    </configuration>
+    <configuration name="a.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/scripts/URL.js" working-dir="$PROJECT_DIR$/scripts" />
+    <configuration name="d.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="d.js" working-dir="$PROJECT_DIR$/scripts">
+      <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
+        <option name="envVars">
+          <list />
+        </option>
+        <option name="extraHosts">
+          <list />
+        </option>
+        <option name="links">
+          <list />
+        </option>
+        <option name="networkDisabled" value="false" />
+        <option name="networkMode" value="bridge" />
+        <option name="portBindings">
+          <list />
+        </option>
+        <option name="publishAllPorts" value="false" />
+        <option name="version" value="1" />
+        <option name="volumeBindings">
+          <list />
+        </option>
+      </EXTENSION>
+    </configuration>
+    <configuration name="mobilnutzerfreundlich – Webbuilder.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/site_checker/Page/mobilnutzerfreundlich – Webbuilder.html" />
+    <configuration name="mobilnutzerfreundlich – Webbuilder.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/site_checker/Page/mobilnutzerfreundlich – Webbuilder.html" />
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.d.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.Main.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.a.js" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Index.html" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.mobilnutzerfreundlich – Webbuilder.html" />
+      <item index="6" class="java.lang.String" itemvalue="JavaScript Debug.mobilnutzerfreundlich – Webbuilder.html (1)" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.mobilnutzerfreundlich – Webbuilder.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.mobilnutzerfreundlich – Webbuilder.html (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.Main.js" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a34dcdab-74fc-4055-9a68-c89bcaf83aea" name="Default" comment="" />
+      <created>1508516070762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508516070762</updated>
+      <workItem from="1508516072183" duration="5344000" />
+      <workItem from="1508590385944" duration="606000" />
+      <workItem from="1508777855003" duration="9126000" />
+      <workItem from="1508962220809" duration="363000" />
+      <workItem from="1509035674763" duration="8219000" />
+      <workItem from="1509046017248" duration="8043000" />
+      <workItem from="1509123892251" duration="1991000" />
+      <workItem from="1509126108546" duration="10304000" />
+      <workItem from="1509136748419" duration="1364000" />
+      <workItem from="1509138211741" duration="1278000" />
+      <workItem from="1509143277587" duration="791000" />
+      <workItem from="1509144077668" duration="519000" />
+      <workItem from="1509287566668" duration="599000" />
+      <workItem from="1509375667868" duration="1141000" />
+      <workItem from="1509377130066" duration="6002000" />
+      <workItem from="1509384558909" duration="5037000" />
+      <workItem from="1509554045997" duration="13326000" />
+      <workItem from="1509632827187" duration="2193000" />
+      <workItem from="1509639120030" duration="5955000" />
+      <workItem from="1509727211119" duration="3444000" />
+      <workItem from="1509730717493" duration="5056000" />
+      <workItem from="1509735971589" duration="4564000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="95265000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0953125" sideWeight="0.4858657" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36585367" sideWeight="0.340625" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.079533406" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.49166667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21302083" sideWeight="0.5141343" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.369035" sideWeight="0.659375" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.49791667" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36585367" sideWeight="0.340625" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.079533406" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.49166667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0953125" sideWeight="0.4858657" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.49791667" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21302083" sideWeight="0.5141343" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.369035" sideWeight="0.659375" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Url fixer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Url fixer" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>mock://chrome-extension://cfhdojbkjhnklbpkdaibdccddilifddb/include.preload.js</url>
+          <line>530</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="65" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scripts/Main.js" />
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/scripts/Main.js" />
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder.html" />
+    <entry file="file://$PROJECT_DIR$/scripts/Main.js" />
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder.html" />
+    <entry file="file://$PROJECT_DIR$/scripts/Main.js" />
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/scripts/Url_Data/url.json" />
+    <entry file="file://$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder.html" />
+    <entry file="file://$PROJECT_DIR$/scripts/URL.js" />
+    <entry file="file://$PROJECT_DIR$/scripts/Main.js" />
+    <entry file="file://$PROJECT_DIR$/scripts/Url_Data/url.json" />
+    <entry file="file://$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder.html" />
+    <entry file="file://$PROJECT_DIR$/Index.html" />
+    <entry file="file://$PROJECT_DIR$/scripts/Main.js" />
+    <entry file="file://$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder.html" />
+    <entry file="file://$PROJECT_DIR$/Index.html" />
+    <entry file="file://$PROJECT_DIR$/scripts/Main.js" />
+    <entry file="file://$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder.html" />
+    <entry file="file://$PROJECT_DIR$/scripts/Main.js" />
+    <entry file="file://$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder.html" />
+    <entry file="file://$PROJECT_DIR$/Index.html" />
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/Index.html" />
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+    <entry file="file://$PROJECT_DIR$/scripts/Main.js" />
+    <entry file="file://$PROJECT_DIR$/../Server/forum/styles/prosilver/theme/base.css" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
+    <entry file="file://$PROJECT_DIR$/../Server/forum/styles/prosilver/theme/base.css" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+    <entry file="file://$PROJECT_DIR$/Page/package.json" />
+    <entry file="file://$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/styles.css" />
+    <entry file="https://www.google-analytics.com/analytics.js">
+      <provider selected="true" editor-type-id="httpFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Index.html" />
+    <entry file="file://$PROJECT_DIR$/scripts/Url_Data/url.json" />
+    <entry file="file://$PROJECT_DIR$/scripts/URL.js" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/node_modules/xhr2/package.json" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/HTML5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="2159" column="0" lean-forward="false" selection-start-line="2159" selection-start-column="0" selection-end-line="2159" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/d.js" />
+    <entry file="uml://JavaScript-modules-diagram/F:/ilyab/Documents/Projects/Web/site_checker">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/node_modules/xhr2/src/001-xml_http_request.coffee#http#265;F:/ilyab/Documents/Projects/Web/site_checker/node_modules/xhr2/src/001-xml_http_request.coffee#https#287;F:/ilyab/Documents/Projects/Web/site_checker/node_modules/xhr2/src/001-xml_http_request.coffee#os#311;F:/ilyab/Documents/Projects/Web/site_checker/node_modules/xhr2/src/001-xml_http_request.coffee#url#329;</node>
+            <node x="" y="">$PROJECT_DIR$/scripts/Main.js</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/SmoothScroll.js.download</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/analytics.js.download</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/animate.css</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/xhr2/test/html/browser_test.html</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/cropped-Logopit_1505764340099-1.png</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/css</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/es-widget-page.js.download</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/es-widget.css</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/es-widget.js.download</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/font-awesome.css</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.4/core-modules/fs.js</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/hashone-custom.js.download</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.4/core-modules/http.js</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.4/core-modules/https.js</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/imagesloaded.min.js.download</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/isotope.pkgd.js.download</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/jquery-migrate.min.js.download</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/jquery.bxslider.css</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/jquery.bxslider.js.download</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/jquery.js.download</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/jquery.nav.js.download</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/jquery.stellar.js.download</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder.html</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/nivo-lightbox.css</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/nivo-lightbox.js.download</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/odometer.js.download</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.4/core-modules/os.js</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/owl.carousel.css</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/owl.carousel.js.download</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/owl.theme.css</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/saved_resource</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/scripts.js.download</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/xhr2/test/src/helpers/setup.coffee#chai#337;F:/ilyab/Documents/Projects/Web/site_checker/node_modules/xhr2/test/src/helpers/setup.coffee#https#568;F:/ilyab/Documents/Projects/Web/site_checker/node_modules/xhr2/test/src/helpers/setup.coffee#sinon#443;F:/ilyab/Documents/Projects/Web/site_checker/node_modules/xhr2/test/src/helpers/setup.coffee#sinon-chai#480;F:/ilyab/Documents/Projects/Web/site_checker/node_modules/xhr2/test/src/helpers/setup.coffee#xhr2.js#70;F:/ilyab/Documents/Projects/Web/site_checker/node_modules/xhr2/test/src/helpers/setup.coffee#xhr2.png.js#541;F:/ilyab/Documents/Projects/Web/site_checker/node_modules/xhr2/test/src/helpers/setup.coffee#xhrServer#504;</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/style.css</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/styles.css</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.4/core-modules/url.js</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/waypoint.js.download</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/wow.js.download</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/wp-embed.min.js.download</node>
+            <node x="" y="">$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder_files/wp-emoji-release.min.js.download</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/xhr2/lib/xhr2.js#http.js#2537;F:/ilyab/Documents/Projects/Web/site_checker/node_modules/xhr2/lib/xhr2.js#https.js#2565;F:/ilyab/Documents/Projects/Web/site_checker/node_modules/xhr2/lib/xhr2.js#os.js#2591;F:/ilyab/Documents/Projects/Web/site_checker/node_modules/xhr2/lib/xhr2.js#url.js#2615;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/xhr2/test/src/helpers/xhr_server.coffee#express#0;F:/ilyab/Documents/Projects/Web/site_checker/node_modules/xhr2/test/src/helpers/xhr_server.coffee#fs#28;F:/ilyab/Documents/Projects/Web/site_checker/node_modules/xhr2/test/src/helpers/xhr_server.coffee#http#46;F:/ilyab/Documents/Projects/Web/site_checker/node_modules/xhr2/test/src/helpers/xhr_server.coffee#https#68;F:/ilyab/Documents/Projects/Web/site_checker/node_modules/xhr2/test/src/helpers/xhr_server.coffee#open#92;</node>
+            <node x="" y="">../scripts/URL.js</node>
+            <node x="" y="">/node_modules/mocha/mocha.css</node>
+            <node x="" y="">/node_modules/mocha/mocha.js</node>
+            <node x="" y="">/node_modules/sinon-chai/lib/sinon-chai.js</node>
+            <node x="" y="">/test/js/event_target_test.js</node>
+            <node x="" y="">/test/js/events_test.js</node>
+            <node x="" y="">/test/js/headers_test.js</node>
+            <node x="" y="">/test/js/helpers/browser_mocha_runner.js</node>
+            <node x="" y="">/test/js/helpers/browser_mocha_setup.js</node>
+            <node x="" y="">/test/js/helpers/setup.js</node>
+            <node x="" y="">/test/js/helpers/xhr2.png.js</node>
+            <node x="" y="">/test/js/redirect_test.js</node>
+            <node x="" y="">/test/js/response_type_test.js</node>
+            <node x="" y="">/test/js/send_test.js</node>
+            <node x="" y="">/test/js/status_test.js</node>
+            <node x="" y="">/test/js/xhr_test.js</node>
+            <node x="" y="">/test/vendor/chai.js</node>
+            <node x="" y="">/test/vendor/sinon.js</node>
+            <node x="" y="">chai</node>
+            <node x="" y="">express</node>
+            <node x="" y="">http://fonts.googleapis.com/</node>
+            <node x="" y="">http://gmpg.org/xfn/11</node>
+            <node x="" y="">http://s.w.org/</node>
+            <node x="" y="">http://webbuilder.design/?p=36</node>
+            <node x="" y="">http://webbuilder.design/comments/feed/</node>
+            <node x="" y="">http://webbuilder.design/feed/</node>
+            <node x="" y="">http://webbuilder.design/responsive-designs/</node>
+            <node x="" y="">http://webbuilder.design/wp-content/uploads/2017/08/cropped-favi-180x180.png</node>
+            <node x="" y="">http://webbuilder.design/wp-content/uploads/2017/08/cropped-favi-192x192.png</node>
+            <node x="" y="">http://webbuilder.design/wp-content/uploads/2017/08/cropped-favi-32x32.png</node>
+            <node x="" y="">http://webbuilder.design/wp-includes/wlwmanifest.xml</node>
+            <node x="" y="">http://webbuilder.design/wp-json/</node>
+            <node x="" y="">http://webbuilder.design/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwebbuilder.design%2Fresponsive-designs%2F</node>
+            <node x="" y="">http://webbuilder.design/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwebbuilder.design%2Fresponsive-designs%2F&amp;amp;format=xml</node>
+            <node x="" y="">http://webbuilder.design/xmlrpc.php</node>
+            <node x="" y="">http://webbuilder.design/xmlrpc.php?rsd</node>
+            <node x="" y="">open</node>
+            <node x="" y="">sinon</node>
+            <node x="" y="">sinon-chai</node>
+            <node x="" y="">xhr2.png.js</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.22815126050420168" x="1350.0" y="1180.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="http://webbuilder.design/wp-includes/js/wp-emoji-release.min.js?ver=4.8.2">
+      <provider selected="true" editor-type-id="httpFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Page/mobilnutzerfreundlich – Webbuilder.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3119">
+          <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="36" column="8" lean-forward="true" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+          <folding>
+            <element signature="n#!!block;n#loader#0" expanded="false" />
+            <element signature="n#!!block;n#err_msg#0" expanded="false" />
+            <element signature="n#!!block;n#ValidUrl_Regrex#0" expanded="false" />
+            <element signature="n#!!block;n#JsonParse#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
