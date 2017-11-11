@@ -5,8 +5,6 @@
 
 var Google_Api_Key = 'AIzaSyDClvZpnI5xyB118el7chbFSHHlppmdg6E';
 
-
-
 function loader(bool) {
 
     var loader = document.getElementById("loader");
@@ -19,8 +17,9 @@ function loader(bool) {
 
 
 function PageSpeed_Insights () {
-    var inp_url = document.getElementById("URL_speed");
     var url = 'http://webbuilder.design/urls?=' + inp_url;
+    var inp_url = document.getElementById("URL_speed");
+
     // (SAVE URL) sending URL to the server
     fetch(url, {
         method: 'GET',
@@ -34,6 +33,13 @@ function PageSpeed_Insights () {
         console.log(error.message);
     });
 
+    if (inp_url.value.length == 0 || !ValidUrl_Regrex(inp_url.value)) {
+        document.getElementById("Result").innerHTML = err_msg("url_err");
+    }
+    else {
+        httpPOST(Url_Fix(inp_url));
+    }
+
     var result = document.getElementById("Result");
 
     if (inp_url.value.length == 0 || !ValidUrl_Regrex(inp_url.value)) {
@@ -41,22 +47,25 @@ function PageSpeed_Insights () {
     }
     else {
         try {
+            loader(true);
             console.log(Url_Fix(inp_url));
             data = JSON.parse(httpGET(Url_Fix(inp_url)));
+          //  mobiledata = JSON.parse((readyCallback(httpPOST(inp_url))));
+
 
 
             if (data.ruleGroups.SPEED.score == "Cannot read property 'SPEED' of undefined"){
                 document.getElementById("Result").innerHTML = err_msg("request_err")
             }
-
                 else {
                     result.innerHTML = 'Information about "' + data.title + '" page';
                     result.innerHTML += "<br> Your site speed is " + data.ruleGroups.SPEED.score + ' from 100';
-                    result.innerHTML += ("<br>" + "Your site is mobile friendly");
+
                 }
         }
 
        catch(err){
+            loader(false);
         document.getElementById("Result").innerHTML = "You've entered incorrect URL or the site doesn't exist, please put URL in the order 'https://example.com' :)";
         }
     }
@@ -123,4 +132,41 @@ function httpGET(Url)
     xmlHttp.send( null );
     return xmlHttp.responseText;
 }
+
+function httpPOST(URL) {
+    url = "https://searchconsole.googleapis.com/v1/urlTestingTools/mobileFriendlyTest:run?key=" + Google_Api_Key;
+    var result = document.getElementById("Result");
+    fetch(url, {
+        method: 'post',
+        headers: {'Content-Type':'application/json'},
+        body: JSON.stringify({url:URL})
+    }).then().then().then().then().then().then().then().then().then().then().then(function (response) {
+            if (response.ok) {
+                return response.json();
+            }
+        }).then(function (test) {
+
+        loader(false);
+
+        switch (test.mobileFriendliness) {
+            case "MOBILE_FRIENDLY":
+                result.innerHTML += ("<br>" + "Your site is mobile friendly!" );
+                break;
+                case "NOT_MOBILE_FRIENDLY":
+                    result.innerHTML += ("<br>" + "Your site isn't mobile friendly!" );
+                    break;
+            default : result.innerHTML += ("<br>" + "Our servers are busy try one time more!" );
+        }
+    })};
+
+
+
+
+
+
+
+
+
+
+
 
